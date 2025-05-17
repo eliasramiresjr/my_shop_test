@@ -1,4 +1,4 @@
-## 🧪 :construction:Projeto de Testes com Cypress:construction:
+## 🧪 🚧 Projeto de Testes com Cypress
 Este repositório foi criado com o intuito de aprendizado e prática de testes automatizados utilizando o Cypress com JavaScript.
 
 ## 📚 Objetivo
